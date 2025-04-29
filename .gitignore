@@ -1,5 +1,6 @@
 # Files
 .env
+config.py
 
 # Folders
 /venv
