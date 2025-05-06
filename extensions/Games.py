@@ -8,6 +8,7 @@ from functions.database import (
     add_balance,
     set_balance
 )
+
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional
 
